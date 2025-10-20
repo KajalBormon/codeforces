@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kajalbormon/Developer/Code/Codeforces/Good_or_Bad/output/Good_or_Bad'
+relocations:     []
+...
