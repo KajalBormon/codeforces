@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kajalbormon/Developer/Code/Codeforces/Count_Letters/output/Count_Letters'
+relocations:     []
+...
